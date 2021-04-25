@@ -1,0 +1,22 @@
+{
+  "name": "lab-package",
+  "version": "1.0.0",
+  "description": "for lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katiehyenychoi/npm-lab.git"
+  },
+  "author": "katie choi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katiehyenychoi/npm-lab/issues"
+  },
+  "homepage": "https://github.com/katiehyenychoi/npm-lab#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
